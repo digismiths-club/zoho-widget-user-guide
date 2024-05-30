@@ -9,10 +9,10 @@ export default function Home() {
     <>
       <main className="flex min-h-screen flex-col items-center">
         <NavBar></NavBar>
-        <div className="mt-14 text-6xl font-medium">
+        <div className="md:mt-14 md:text-6xl text-5xl mt-7 font-medium">
           User Guide
         </div>
-        <div className="w-[75%] mt-14 p-10 bg-gray-50 flex flex-col items-center justify-center border-solid border-2">
+        <div className="md:w-[75%] mt-7 md:mt-14 md:p-10 bg-gray-50 flex flex-col items-center justify-center border-solid md:border-2">
           {
             imgArr.map((card,index)=>{
               return (
