@@ -12,7 +12,7 @@ export default function Home() {
         <div className="md:mt-14 md:text-6xl text-5xl mt-7 font-medium">
           User Guide
         </div>
-        <div className="md:w-[75%] mt-7 md:mt-14 md:p-10 bg-gray-50 flex flex-col items-center justify-center border-solid md:border-2">
+        <div className="md:w-[75%] md:mt-14 md:p-10 p-4 bg-gray-50 flex flex-col items-center justify-center border-solid md:border-2">
           {
             imgArr.map((card,index)=>{
               return (
