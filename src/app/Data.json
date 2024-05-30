@@ -1,35 +1,35 @@
 {
     "imgArr":[
         {
-          "url": "1.jpg",
+          "url": "/zoho-widget-user-guide/1.jpg",
           "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
         },
         {
-          "url": "2.jpg",
+          "url": "/zoho-widget-user-guide/2.jpg",
           "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
         },
         {
-          "url": "3.jpg",
+          "url": "/zoho-widget-user-guide/3.jpg",
           "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
         },
         {
-          "url": "4.jpg",
+          "url": "/zoho-widget-user-guide/4.jpg",
           "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
         },
         {
-          "url": "5.jpg",
+          "url": "/zoho-widget-user-guide/5.jpg",
           "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
         },
         {
-          "url": "6.jpg",
+          "url": "/zoho-widget-user-guide/6.jpg",
           "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
         },
         {
-          "url": "7.jpg",
+          "url": "/zoho-widget-user-guide/7.jpg",
           "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
         },
         {
-          "url": "8.jpg",
+          "url": "/zoho-widget-user-guide/8.jpg",
           "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
         }
       ]
