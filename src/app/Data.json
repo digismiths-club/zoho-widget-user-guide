@@ -2,7 +2,7 @@
     "imgArr":[
         {
           "url": "/zoho-widget-user-guide/1.jpg",
-          "title": "Sign in on Zoho CRM."
+          "title": "Sign in and install our extension from zoho marketplace."
         },
         {
           "url": "/zoho-widget-user-guide/2.jpg",
@@ -10,23 +10,23 @@
         },
         {
           "url": "/zoho-widget-user-guide/3.jpg",
-          "title": "Go to Settings Page."
+          "title": "You will be navigated to our settings page."
         },
         {
           "url": "/zoho-widget-user-guide/4.jpg",
-          "title": "Click on the Google Autocomplete button."
+          "title": "Our widget works on following modules: Leads, Accounts, Contacts, Quotes, Invoices, Sales Orders, Purchase Orders. Create/Edit on these modules, click on Google Autocomplete button to start the widget."
         },
         {
           "url": "/zoho-widget-user-guide/5.jpg",
-          "title": "Enter your location & suggestions would be displayed."
+          "title": "Enter partial address & suggestions would be displayed."
         },
         {
           "url": "/zoho-widget-user-guide/6.jpg",
-          "title": "Select your Mailing Address or Other Address."
+          "title": "Select a Mailing Address, Other Address or both on Contact module. The address will map accordingly."
         },
         {
           "url": "/zoho-widget-user-guide/7.jpg",
-          "title": "Select your Mailing Address or Billing Address."
+          "title": "Select a Shiping Address, Billing Address or both on Account, Quotes, Invoices, Sales Orders, Purchase Orders module. The address will map accordingly."
         },
         {
           "url": "/zoho-widget-user-guide/8.jpg",

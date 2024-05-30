@@ -2,6 +2,7 @@ import Head from "next/head";
 import data from './Data.json';
 import Card from "./components/Card";
 import NavBar from "./components/NavBar";
+import Footer from "./components/Footer";
 
 export default function Home() {
   const imgArr= data.imgArr;
@@ -21,6 +22,7 @@ export default function Home() {
             })
           }
         </div>
+        <Footer/>
       </main>
     </>
   );
