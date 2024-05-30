@@ -2,35 +2,35 @@
     "imgArr":[
         {
           "url": "/zoho-widget-user-guide/1.jpg",
-          "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
+          "title": "Sign in on Zoho CRM."
         },
         {
           "url": "/zoho-widget-user-guide/2.jpg",
-          "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
+          "title": "Create and enter your google maps API key."
         },
         {
           "url": "/zoho-widget-user-guide/3.jpg",
-          "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
+          "title": "Go to Settings Page."
         },
         {
           "url": "/zoho-widget-user-guide/4.jpg",
-          "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
+          "title": "Click on the Google Autocomplete button."
         },
         {
           "url": "/zoho-widget-user-guide/5.jpg",
-          "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!!"
+          "title": "Enter your location & suggestions would be displayed."
         },
         {
           "url": "/zoho-widget-user-guide/6.jpg",
-          "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
+          "title": "Select your Mailing Address or Other Address."
         },
         {
           "url": "/zoho-widget-user-guide/7.jpg",
-          "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
+          "title": "Select your Mailing Address or Billing Address."
         },
         {
           "url": "/zoho-widget-user-guide/8.jpg",
-          "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
+          "title": "Changes would be reflected after setting the location."
         }
       ]
 }

@@ -7,7 +7,7 @@ function Card({index,url,title}) {
         <div className='md:w-16 bg-[#29435d] font-semibold text-center md:p-5 p-3 text-2xl text-white'>
             {index}
         </div>
-        <div className='ml-[13px] flex justify-center items-center py-5 md:p-0'>
+        <div className='ml-[13px] flex justify-center items-center py-5 p-2 '>
             {title}
         </div>
       </div>
