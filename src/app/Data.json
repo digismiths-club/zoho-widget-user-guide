@@ -1,0 +1,36 @@
+{
+    "imgArr":[
+        {
+          "url": "1.jpg",
+          "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
+        },
+        {
+          "url": "2.jpg",
+          "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
+        },
+        {
+          "url": "3.jpg",
+          "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
+        },
+        {
+          "url": "4.jpg",
+          "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
+        },
+        {
+          "url": "5.jpg",
+          "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
+        },
+        {
+          "url": "6.jpg",
+          "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
+        },
+        {
+          "url": "7.jpg",
+          "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
+        },
+        {
+          "url": "8.jpg",
+          "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, veniam!"
+        }
+      ]
+}
