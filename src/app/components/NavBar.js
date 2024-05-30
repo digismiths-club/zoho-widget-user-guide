@@ -7,7 +7,7 @@ function NavBar() {
         <img className='h-10' src="https://digismiths.com/wp-content/uploads/2023/01/digismiths-logo-black-theme.svg" alt="Digismiths" />
       </a>
       
-      <div className='font-light text-xl text-white'>
+      <div className='font-light text-xl text-white hidden md:block'>
         Google Maps Auto Complete Zoho 
       </div>
     </nav>
