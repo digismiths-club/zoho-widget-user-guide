@@ -1,7 +1,7 @@
 import React from "react";
 
 function TabPanel({ tab, setTab }) {
-  const tabs= ["Widget Steps","Google API Steps","Report a Bug","Contact"]
+  const tabs= ["Widget Steps","Google API","Report a Bug","Contact"]
   return (
     <>
       <div className="flex justify-around text-xs md:font-semibold sticky md:top-20 top-14 py-1 bg-white">
