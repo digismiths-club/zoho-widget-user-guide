@@ -7,7 +7,7 @@ export default function Home() {
     <>
       <main className="flex min-h-screen flex-col items-center">
         <NavBar></NavBar>
-        <div className="md:mt-14 md:text-6xl text-5xl mt-7 font-medium">
+        <div className="md:mt-12 md:text-6xl text-5xl mt-7 font-medium">
           User Guide
         </div>
           <Tabs></Tabs>
