@@ -7,7 +7,7 @@ function Contact() {
         aria-label="Contact Form"
         frameborder="0"
         style={{
-          height: "500px",
+          height: "1100px",
           width: "99%",
           border: "none",
         }}

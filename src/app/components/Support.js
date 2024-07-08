@@ -7,7 +7,7 @@ function Support() {
         aria-label="Support Form"
         frameborder="0"
         style={{
-          height: "500px",
+          height: "1000px",
           width: "99%",
           border: "none",
           padding: "0px"
