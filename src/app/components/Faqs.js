@@ -5,28 +5,28 @@ import { FaQuestionCircle } from "react-icons/fa";
 function Faqs() {
     const faqs = [
         {
-          ques: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, vitae.",
-          ans: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, vitae.",
+          ques: "How do I install the Google Address Autocomplete Widget in Zoho CRM?",
+          ans: "To install, simply visit the Zoho Marketplace, search for Google Address Autocomplete Widget, and click Install. Follow the prompts to integrate it into your Zoho CRM. ",
         },
         {
-          ques: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, vitae.",
-          ans: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, vitae.",
+          ques: "Is the widget really free?",
+          ans: "Yes! The Google Address Autocomplete Widget is completely free to use. There are no hidden fees or in-app purchases. ",
         },
         {
-          ques: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, vitae.",
-          ans: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, vitae.",
+          ques: "Does the widget work with all Zoho CRM modules?",
+          ans: "Yes, the widget is designed to work seamlessly across multiple Zoho CRM modules, including Leads, Contacts, Accounts, and more.",
         },
         {
-          ques: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, vitae.",
-          ans: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, vitae.",
+          ques: "Do I need any technical knowledge to set it up?",
+          ans: "Not at all! The setup is straightforward, with no coding required. Just install the widget and start using it right away. ",
         },
         {
-          ques: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, vitae.",
-          ans: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, vitae.",
+          ques: "Can this widget help reduce address entry errors?",
+          ans: "Absolutely! The autocomplete feature pulls data directly from Google Maps, ensuring accurate and consistent address information every time.",
         },
         {
-          ques: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, vitae.",
-          ans: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, vitae.",
+          ques: "Do I need a Google Maps billing account and API key to use this widget?",
+          ans: "Yes, this widget requires an active Google Maps billing account and a valid API key to function. You’ll need to set up billing through Google and generate an API key to enable the address autocomplete feature in Zoho CRM. ",
         },
       ];
   return (
