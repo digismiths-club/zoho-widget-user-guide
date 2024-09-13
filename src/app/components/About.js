@@ -3,7 +3,7 @@ import React from 'react'
 function About() {
   return (
     <>
-        <div className='p-10 flex justify-evenly items-center w-screen'>
+        <div className='p-10 pt-24 flex justify-evenly items-center w-screen'>
             <div className=' w-[40%] flex flex-col'> 
               <span >Presenting</span>
               <div className='text-4xl mt-2 '>Google Maps Autocomplete</div>

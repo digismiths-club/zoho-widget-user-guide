@@ -1,8 +1,9 @@
-import React, { useEffect } from "react";
+import React from 'react'
 
-function Support() {
+function page() {
   return (
-    <div>
+    <>
+      <div className='pt-16 flex justify-center items-center'>
       <iframe
         aria-label="Support Form"
         frameborder="0"
@@ -14,8 +15,9 @@ function Support() {
         }}
         src="https://forms.zohopublic.in/digismiths/form/SupportForm/formperma/R50JzmX1KHWdBzXEIbLs7GAcTvdUtKJ_3okxt7vcLBw"
       ></iframe>
-    </div>
-  );
+      </div>
+    </>
+  )
 }
 
-export default Support;
+export default page
