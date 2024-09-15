@@ -17,7 +17,7 @@ function NavBar() {
           className={`hover:underline hover:font-normal ${nav==0?"underline font-normal":""}`} onClick={()=>{
           setNav(0)
         }}>
-          <span>Usage Steps</span>
+          <span className='text-xs xl:text-base'>Usage Steps</span>
         </Link>
         <Link
           href="/GoogleApi" 
@@ -25,7 +25,7 @@ function NavBar() {
           onClick={()=>{
             setNav(1)
           }}>
-          <span>Google API</span>
+          <span className='text-xs xl:text-base'>Google API</span>
         </Link>
         <Link 
           href="/Bug" 
@@ -33,7 +33,7 @@ function NavBar() {
           onClick={()=>{
             setNav(2)
           }}>
-          <span>Report a bug</span>
+          <span className='text-xs xl:text-base'>Report a bug</span>
         </Link>
         <Link 
           href="/Contact" 
@@ -41,7 +41,7 @@ function NavBar() {
           onClick={()=>{
             setNav(3)
           }}>
-          <span>Contact</span>
+          <span className='text-xs xl:text-base'>Contact</span>
         </Link>
       </div>
     </nav>
