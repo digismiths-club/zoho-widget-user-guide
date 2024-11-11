@@ -1,23 +1,23 @@
 {
     "imgArr":[
         {
-          "url": "/zoho-widget-user-guide/1.jpg",
+          "url": "/zoho-widget-user-guide/One.png",
           "title": "Sign in and install our extension from zoho marketplace."
         },
         {
-          "url": "/zoho-widget-user-guide/2.jpg",
+          "url": "/zoho-widget-user-guide/Two.png",
           "title": "Create and enter your google maps API key."
         },
         {
-          "url": "/zoho-widget-user-guide/4.jpg",
+          "url": "/zoho-widget-user-guide/Three.png",
           "title": "Our widget works on following modules: Leads, Accounts, Contacts, Quotes, Invoices, Sales Orders, Purchase Orders. Create/Edit on these modules, click on Google Autocomplete button to start the widget."
         },
         {
-          "url": "/zoho-widget-user-guide/5.jpg",
+          "url": "/zoho-widget-user-guide/Four.png",
           "title": "Enter partial address & suggestions would be displayed."
         },
         {
-          "url": "/zoho-widget-user-guide/6.jpg",
+          "url": "/zoho-widget-user-guide/Five.png",
           "title": "Select a Mailing Address, Other Address or both on Contact module. The address will map accordingly."
         },
         {
