@@ -9,23 +9,31 @@
           "title": "Create and enter your google maps API key."
         },
         {
-          "url": "/zoho-widget-user-guide/4.jpg",
+          "url": "/zoho-widget-user-guide/3.jpg",
           "title": "Our widget works on following modules: Leads, Accounts, Contacts, Quotes, Invoices, Sales Orders, Purchase Orders. Create/Edit on these modules, click on Google Autocomplete button to start the widget."
         },
         {
-          "url": "/zoho-widget-user-guide/5.jpg",
+          "url": "/zoho-widget-user-guide/4.png",
           "title": "Enter partial address & suggestions would be displayed."
         },
         {
-          "url": "/zoho-widget-user-guide/6.jpg",
-          "title": "Select a Mailing Address, Other Address or both on Contact module. The address will map accordingly."
+          "url": "/zoho-widget-user-guide/5.png",
+          "title": "After entering the address, you'll see formatting options with buttons like “Select Street,” “Select City,” and “Select Province.”"
         },
         {
-          "url": "/zoho-widget-user-guide/7.jpg",
+          "url": "/zoho-widget-user-guide/6.png",
+          "title": "Click these buttons to extract and map the selected parts of the address into their respective fields."
+        },
+        {
+          "url": "/zoho-widget-user-guide/8.png",
           "title": "Select a Shiping Address, Billing Address or both on Account, Quotes, Invoices, Sales Orders, Purchase Orders module. The address will map accordingly."
         },
         {
-          "url": "/zoho-widget-user-guide/8.jpg",
+          "url": "/zoho-widget-user-guide/9.png",
+          "title": "Select a Mailing Address, Other Address or both on Contact module. The address will map accordingly."
+        },
+        {
+          "url": "/zoho-widget-user-guide/10.jpg",
           "title": "Changes would be reflected after setting the location."
         }
       ]

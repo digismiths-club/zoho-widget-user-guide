@@ -16,8 +16,8 @@ function Features() {
             </div>
             <div className='min-h-60 hover:bg-white cursor-pointer rounded-md flex flex-col p-5'>
                 <img src="/zoho-widget-user-guide/plugin.png" alt="feature1"  height={80} width={80} className='h-14 w-14 xl:h-24 xl:w-24'/>
-                <div className='text-lg xl:text-2xl mt-4'>Free Extension</div>
-                <div className='font-light xl:text-sm text-xs mt-1'>Completely free to use! Unlike other paid tools, this widget provides full functionality at no cost to you. </div>
+                <div className='text-lg xl:text-2xl mt-4'>Address Formatting Made Easy</div>
+                <div className='font-light xl:text-sm text-xs mt-1'>Reorder streets, and pick cities and provinces with intelligent, location-aware buttons. </div>
             </div>
             <div className='min-h-60 hover:bg-white cursor-pointer rounded-md flex flex-col p-5'>
                 <img src="/zoho-widget-user-guide/productivity.png" alt="feature1"  height={80} width={80} className='h-14 w-14 xl:h-24 xl:w-24'/>

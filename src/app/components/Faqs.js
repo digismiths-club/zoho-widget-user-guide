@@ -9,9 +9,9 @@ function Faqs() {
           ans: "To install, simply visit the Zoho Marketplace, search for Google Address Autocomplete Widget, and click Install. Follow the prompts to integrate it into your Zoho CRM. ",
         },
         {
-          ques: "Is the widget really free?",
-          ans: "Yes! The Google Address Autocomplete Widget is completely free to use. There are no hidden fees or in-app purchases. ",
-        },
+          ques: "What does the new address formatting feature do?",
+          ans: "The new feature allows you to manually format address components using three buttons—Select Street, Select City, and Select Province. You can reorder street details, and choose the most relevant city or province from suggested options based on the entered address.",
+        },        
         {
           ques: "Does the widget work with all Zoho CRM modules?",
           ans: "Yes, the widget is designed to work seamlessly across multiple Zoho CRM modules, including Leads, Contacts, Accounts, and more.",
