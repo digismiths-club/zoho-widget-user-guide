@@ -14,7 +14,7 @@ function Faqs() {
         },        
         {
           ques: "Does the widget work with all Zoho CRM modules?",
-          ans: "Yes, the widget is designed to work seamlessly across multiple Zoho CRM modules, including Leads, Contacts, Accounts, and more.",
+          ans: "No, Our widget works on following modules: Leads, Accounts, Contacts, Quotes, Invoices, Sales Orders, Purchase Orders and Vendors.",
         },
         {
           ques: "Do I need any technical knowledge to set it up?",
