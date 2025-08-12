@@ -14,7 +14,7 @@ function ZohoStepsCard({index, title, url}) {
   return (
     <>
       
-      <div className='md:w-[100%] flex flex-col border-2 mt-7 md:mt-4'>
+      <div className='md:w-full flex flex-col border-2 mt-7 md:mt-4'>
             <div className='flex flex-col border-solid border-b-2 md:flex-row'>
                 <div className='md:w-16 bg-[#29435d] font-semibold text-center md:p-5 p-3 text-2xl text-white'>
                     {index}
@@ -55,7 +55,7 @@ function ZohoStepsCard({index, title, url}) {
                 <img
                 src={url}
                 alt="x"
-                className="max-w-screen-md max-h-screen-md cursor-pointer"
+                className="max-w-(--breakpoint-md) max-h-screen-md cursor-pointer"
                 />
             </div>
             )}

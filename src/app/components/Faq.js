@@ -6,7 +6,7 @@ function Faq({element}) {
     const [toggle, setToggle]= useState(false);
   return (
     <>
-        <div className='space-y-2 bg-[#f0f3fa] text-black rounded-md xl:rounded-[1rem] px-3 py-3 xl:px-5 cursor-pointer'
+        <div className='space-y-2 bg-[#f0f3fa] text-black rounded-md xl:rounded-2xl px-3 py-3 xl:px-5 cursor-pointer'
             onClick={()=>{
                 setToggle(!toggle);
             }}

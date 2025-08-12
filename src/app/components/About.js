@@ -17,7 +17,7 @@ function  About() {
             </button>
           </a>
         </div>
-        <img src="/zoho-widget-user-guide/5.png" className='h-44 w-[80%] md:w-96 xl:h-[22rem] xl:w-[43rem]' alt='logo' width={500} height={500}/>
+        <img src="/zoho-widget-user-guide/5.png" className='h-44 w-[80%] md:w-96 xl:h-88 xl:w-172' alt='logo' width={500} height={500}/>
       </div>
     </>
   )

@@ -29,7 +29,7 @@ function ApiSteps() {
   return (
     <div className="w-full md:p-10 p-0 bg-gray-50 flex flex-col items-center justify-center border-solid md:border-2">
       {/* Card 1 */}
-        <div className='w-[100%] flex flex-col border-2 mt-4 md:mt-4'>
+        <div className='w-full flex flex-col border-2 mt-4 md:mt-4'>
             <div className='flex flex-col md:flex-row'>
                 <div className='md:w-16 bg-[#29435d] font-semibold text-center md:p-5 p-3 text-2xl text-white'>
                     1
