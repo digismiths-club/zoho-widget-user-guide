@@ -13,27 +13,35 @@
           "title": "Our widget works on following modules: Leads, Accounts, Contacts, Quotes, Invoices, Sales Orders, Purchase Orders, Vendors. Create/Edit on these modules, click on Google Autocomplete button to start the widget."
         },
         {
-          "url": "/zoho-widget-user-guide/4.png",
-          "title": "Enter partial address & suggestions would be displayed."
+          "url": "/zoho-widget-user-guide/4.jpg",
+          "title": "Now, our platform allows you to select your preferred language and switch between the old and new Enhanced Google Places APIs. The API toggle is available at the top, and the language option is located in the middle of the widget, as shown below."
         },
         {
-          "url": "/zoho-widget-user-guide/5.png",
-          "title": "After entering the address, you'll see formatting options with buttons like “Select Street,” “Select City,” and “Select Province.”"
+          "url": "/zoho-widget-user-guide/5.jpg",
+          "title": "To see Available Language options click on the Settings (gear) icon next to the language option. A modal will appear displaying all supported regional languages. From this list, select the language you want to use for address suggestions."
         },
         {
           "url": "/zoho-widget-user-guide/6.png",
+          "title": "Enter partial address & suggestions would be displayed."
+        },
+        {
+          "url": "/zoho-widget-user-guide/7.jpg",
+          "title": "After entering the address, you'll see formatting options with buttons like “Select Street,” “Select City,” and “Select Province.”"
+        },
+        {
+          "url": "/zoho-widget-user-guide/8.jpg",
           "title": "Click these buttons to extract and map the selected parts of the address into their respective fields."
         },
         {
-          "url": "/zoho-widget-user-guide/8.png",
+          "url": "/zoho-widget-user-guide/9.jpg",
           "title": "Select a Shiping Address, Billing Address or both on Account, Quotes, Invoices, Sales Orders, Purchase Orders module. The address will map accordingly."
         },
         {
-          "url": "/zoho-widget-user-guide/9.png",
+          "url": "/zoho-widget-user-guide/10.jpg",
           "title": "Select a Mailing Address, Other Address or both on Contact module. The address will map accordingly."
         },
         {
-          "url": "/zoho-widget-user-guide/10.jpg",
+          "url": "/zoho-widget-user-guide/11.jpg",
           "title": "Changes would be reflected after setting the location."
         }
       ]
