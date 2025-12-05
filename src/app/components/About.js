@@ -1,5 +1,5 @@
 import React from 'react'
-
+// Uses 7.jpg as main image and in usage steps too in 7th step
 function  About() {
   return (
     <>
